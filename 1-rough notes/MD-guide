@@ -1,0 +1,41 @@
+#guide #markdown 
+
+this much is enough for normal note takings
+
+```
+# THIS IS A HEADING 1
+## this is a heading 2
+### this is a heading 3
+
+
+_this is italic text_
+
+**this is bold**
+
+- this is a unordered list
+1. this is a ordered list
+
+- [ ]  this is a task list (incomplete)
+- [x]  this is a completed one
+
+___ this is a horizontal rule
+
+==this will highlight this text==
+
+
+` this is an inline code`
+``` this  will be a code block```
+
+> this is a backquote
+
+
+[[this is for internal link]]
+[this is for external weblink](https://luffysenpai.xyz)
+
+![my image](https://myimage.jpg)
+![my local image](/Pictures/wall/a.png)
+
+```
+
+
+  

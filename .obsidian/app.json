@@ -1,0 +1,16 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1-rough notes",
+  "showRibbon": true,
+  "livePreview": true,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
+}
